@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://jonas-schmedtmann-react-course-api.onrender.com/";
 
 const CitiesContext = createContext();
 
