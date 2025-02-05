@@ -6,7 +6,8 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "https://jonas-schmedtmann-react-course-api.onrender.com/";
+const BASE_URL =
+  "https://jonas-schmedtmann-react-course-api.onrender.com/worldwise-api";
 
 const CitiesContext = createContext();
 
