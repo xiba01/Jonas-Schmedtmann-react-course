@@ -32,7 +32,7 @@ function App() {
   return (
     <AuthProvider>
       <CitiesProvider>
-        <BrowserRouter basename="/worldwise">
+        <BrowserRouter basename="/Jonas-Schmedtmann-react-course/worldwise">
           <Suspense fallback={<SpinnerFullPage />}>
             <Routes>
               <Route index element={<Homepage />} />
