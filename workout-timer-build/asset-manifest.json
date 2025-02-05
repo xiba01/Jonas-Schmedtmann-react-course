@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/workout-timer/static/css/main.98da1142.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/workout-timer/static/js/main.309e29ca.js",
+    "static/media/ClickSound.m4a": "/Jonas-Schmedtmann-react-course/workout-timer/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
+    "index.html": "/Jonas-Schmedtmann-react-course/workout-timer/index.html",
+    "main.98da1142.css.map": "/Jonas-Schmedtmann-react-course/workout-timer/static/css/main.98da1142.css.map",
+    "main.309e29ca.js.map": "/Jonas-Schmedtmann-react-course/workout-timer/static/js/main.309e29ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98da1142.css",
+    "static/js/main.309e29ca.js"
+  ]
+}

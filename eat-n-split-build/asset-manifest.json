@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/eat-n-split/static/css/main.a4c28843.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/eat-n-split/static/js/main.4311e106.js",
+    "index.html": "/Jonas-Schmedtmann-react-course/eat-n-split/index.html",
+    "main.a4c28843.css.map": "/Jonas-Schmedtmann-react-course/eat-n-split/static/css/main.a4c28843.css.map",
+    "main.4311e106.js.map": "/Jonas-Schmedtmann-react-course/eat-n-split/static/js/main.4311e106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.4311e106.js"
+  ]
+}

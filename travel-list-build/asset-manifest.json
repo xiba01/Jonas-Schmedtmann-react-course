@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/travel-list/static/css/main.fdc828fe.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/travel-list/static/js/main.355a2be8.js",
+    "index.html": "/Jonas-Schmedtmann-react-course/travel-list/index.html",
+    "main.fdc828fe.css.map": "/Jonas-Schmedtmann-react-course/travel-list/static/css/main.fdc828fe.css.map",
+    "main.355a2be8.js.map": "/Jonas-Schmedtmann-react-course/travel-list/static/js/main.355a2be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.355a2be8.js"
+  ]
+}

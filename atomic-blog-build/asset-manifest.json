@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/atomic-blog/static/css/main.1f78adec.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/atomic-blog/static/js/main.05514c1a.js",
+    "index.html": "/Jonas-Schmedtmann-react-course/atomic-blog/index.html",
+    "main.1f78adec.css.map": "/Jonas-Schmedtmann-react-course/atomic-blog/static/css/main.1f78adec.css.map",
+    "main.05514c1a.js.map": "/Jonas-Schmedtmann-react-course/atomic-blog/static/js/main.05514c1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f78adec.css",
+    "static/js/main.05514c1a.js"
+  ]
+}

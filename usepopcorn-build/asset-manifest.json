@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/usepopcorn/static/css/main.a85ecdba.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/usepopcorn/static/js/main.9bdd7ef1.js",
+    "index.html": "/Jonas-Schmedtmann-react-course/usepopcorn/index.html",
+    "main.a85ecdba.css.map": "/Jonas-Schmedtmann-react-course/usepopcorn/static/css/main.a85ecdba.css.map",
+    "main.9bdd7ef1.js.map": "/Jonas-Schmedtmann-react-course/usepopcorn/static/js/main.9bdd7ef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.9bdd7ef1.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas-Schmedtmann-react-course/classy-weather/static/css/main.28420eaf.css",
+    "main.js": "/Jonas-Schmedtmann-react-course/classy-weather/static/js/main.e75645eb.js",
+    "index.html": "/Jonas-Schmedtmann-react-course/classy-weather/index.html",
+    "main.28420eaf.css.map": "/Jonas-Schmedtmann-react-course/classy-weather/static/css/main.28420eaf.css.map",
+    "main.e75645eb.js.map": "/Jonas-Schmedtmann-react-course/classy-weather/static/js/main.e75645eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28420eaf.css",
+    "static/js/main.e75645eb.js"
+  ]
+}
