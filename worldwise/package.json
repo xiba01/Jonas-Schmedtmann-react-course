@@ -26,6 +26,5 @@
     "eslint-config-react-app": "^7.0.1",
     "vite": "^4.2.0",
     "vite-plugin-eslint": "^1.8.1"
-  },
-  "homepage": "https://xiba01.github.io/Jonas-Schmedtmann-react-course/worldwise"
+  }
 }
