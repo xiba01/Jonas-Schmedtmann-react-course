@@ -10,11 +10,19 @@ const initialState = {
 function reducer(state, action) {
   switch (action.type) {
     case "login":
-      return { ...state, user: action.payload, isAuthenticated: true };
+      return {
+        ...state,
+        user: action.payload,
+        isAuthenticated: true,
+      };
     case "logout":
-      return { ...state, user: null, isAuthenticated: false };
+      return {
+        ...state,
+        user: null,
+        isAuthenticated: false,
+      };
     default:
-      throw new Error("Unknown action");
+      throw new Error("Unknown action type.");
   }
 }
 
@@ -49,8 +57,10 @@ function AuthProvider({ children }) {
 
 function useAuth() {
   const context = useContext(AuthContext);
+
   if (context === undefined)
-    throw new Error("AuthContext was used outside AuthProvider");
+    throw new Error("AuthContext was used outside of AuthProvider");
+
   return context;
 }
 
